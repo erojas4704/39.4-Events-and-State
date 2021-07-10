@@ -1,0 +1,13 @@
+.eight-ball {
+    width: 220px;
+    height: 220px;
+    line-height: 220px;
+    background-color: black;
+    border-radius: 110px;
+    color: white;
+    text-align: center;
+}
+
+.eight-revealed{
+    background-color: green;
+}
